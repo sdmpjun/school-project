@@ -1,0 +1,22 @@
+.null {
+	border-bottom: 2px solid #ccc;
+}
+.word {
+	width: 860px;
+	margin: 0 auto;
+}
+.word h1 {
+	text-align: center;
+	font-size: 34px;
+	line-height: 60px;
+}
+.word h3 {
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.word p {
+	text-indent: 2em;
+	line-height: 30px;
+	font-size: 16px;
+	color: #333;
+}

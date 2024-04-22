@@ -1,0 +1,88 @@
+.intro {
+	height: 850px;
+	background-color: #f4f4f4;
+	padding-top: 30px
+}
+.title p {
+	font-size: 28px;
+	text-align: center;
+	font-weight: 700;
+}
+.title h5 {
+	font-size: 22px;
+	text-align: center;
+	color: #666;
+	font-weight: normal;
+	margin: 20px 0 50px 0;
+}
+.table {
+	height: 700px;
+	width: 1200px;
+	margin: 50px auto 0;
+}
+.table p {
+	font-size: 16px;
+	color: #666;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.table h3 {
+	margin-bottom: 20px;
+	line-height: 30px;
+	color: #333;
+}
+.table label {
+	font-size: 18px;
+	color: #666;
+}
+.table input {
+	border-style: inset;
+	width: 300px;
+	height: 35px;
+	margin: 10px 10px 10px 0;
+	padding: 0 0 0 8px;
+}
+.table textarea{
+	border-style: inset;
+	margin-top: 20px;
+	font-size: 18px;
+	color: #666;
+	height: 300px;
+	width: 960px;
+}
+
+.table .submit {
+	border-style: inset;
+	font-size: 22px;
+	color: #fff;
+	display: block;
+	margin-left: 402px;
+	border-radius: 5px;
+	background-color:  #333;
+	border: 0;
+	width: 150px;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.table select  option{
+	font-size: 18px;
+	width: 200px;
+	text-align: center;
+}
+.table select  {
+	background: normal;
+    border:normal;
+    outline: normal;
+	outline-style: blue;
+	border-style: inset;
+	line-height: 50px;
+	height: 50px;
+	width: 200px;
+	font-size: 18px;
+}
+
+.a {
+	text-align: center;
+}

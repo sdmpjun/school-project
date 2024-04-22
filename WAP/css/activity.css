@@ -1,0 +1,39 @@
+.type {
+	width: 900px;
+	height: 1200px;
+	padding: 30px 30px;
+	margin: 30px auto;
+	background-color: #f4f4f4;
+}
+.ty {
+	height: 400px;
+}
+.type .title {
+	text-align: center;
+	font-size: 24px;
+	margin: 20px auto;
+	font-weight: 700;
+	color:  #155b83;
+}
+.l {
+	width: 350px;
+	margin-left: 30px;
+}
+.l img {
+	width: 350px;
+	height: 350px;
+	border-radius: 50%;
+}
+.r {
+	width: 400px;
+	height: 350px;
+	padding-left: 100px;
+	border-bottom: 2px solid #7bdce8;
+}
+.r p {
+	font-size: 18px;
+	margin-top: 120px;
+	line-height: 40px;
+	text-indent: 2em;
+	width: 300px;
+}

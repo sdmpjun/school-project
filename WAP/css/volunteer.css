@@ -1,0 +1,33 @@
+fieldset {
+	background-color: #f4f4f4;
+	height: 450px;
+}
+fieldset input {
+	height: 30px;
+	border: 1px solid #888;
+}
+fieldset label {
+	margin-left: 30px;
+}
+legend {
+	font-size: 18px;
+	line-height: 60px;
+}
+.a {
+	width: 50px;
+	display: inline-block;
+	height: 30px;
+	background-color: #555;
+	color: #fff;
+	text-align: center;
+	line-height: 30px;
+	margin-left: 50px;
+}
+
+.btn{
+	margin-top:15px;
+	background: #eee;
+	border:none; 
+	padding: 5px 20px;
+    margin-right: 25px;
+}
